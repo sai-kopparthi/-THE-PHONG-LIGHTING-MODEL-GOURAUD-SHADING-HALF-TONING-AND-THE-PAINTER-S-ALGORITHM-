@@ -1,0 +1,20 @@
+hi!
+==================================================================================================================================================================================
+This project I do gourand shading and halftoning with phing intensities
+so the keys are as follows and my program gets terminated after any of these selection due to sementation core dump made me do this as rasturization is having a while loop and i cannot call in a switch which is leading into core dump so i request you to run the code for the below options .
+===================================================================================================================================================================================
+enter 
+ 1>for outline gourand shading and half toning 
+ 2>for rasterized yz projection with painter algorithm implemented 
+ 3>for rasterized xz projection with painter algorithm implemented 
+ 4>for rasterized xy projection with painter algorithm implemented 
+===================================================================================================================================================================================
+Manule keys If you enter 1
+enter 
+1>gourand  2>halftonning -1>exit
+after this is done
+1>xy projection
+2>yz projection 
+3>xz projection
+4>exit
+===================================================================================================================================================================================
